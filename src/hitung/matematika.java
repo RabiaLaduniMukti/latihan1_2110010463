@@ -25,9 +25,6 @@ public class matematika {
         return bil1 / bil2 ;
     }
     
-    //Method Accsessor
-    public double setpenjumlahan2 (){
-        return bil1 + bil2 ;
-    }
+
 }
 
