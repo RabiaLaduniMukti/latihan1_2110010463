@@ -24,4 +24,10 @@ public class matematika {
     public double setpembagian (){
         return bil1 / bil2 ;
     }
+    
+    //Method Accsessor
+    public double setpenjumlahan2 (){
+        return bil1 + bil2 ;
+    }
 }
+
